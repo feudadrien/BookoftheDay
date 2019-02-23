@@ -1,0 +1,11 @@
+{
+  "title": "abc",
+  "Book": {
+    "Title1": "Connecting the Dots", 
+    "Title2": "Lessons for Leadership in a Startup World",
+    "Summary": "Silicon Valley visionary John Chambers shares the lessons that transformed a dyslexic kid from West Virginia into one of the world's best business leaders and turned a simple router company into a global tech titan.",
+    "Authors": "John Chambers & Diane Brady",
+    "Link-url": "https://www.amazon.com/Connecting-Dots-Lessons-Leadership-Startup/dp/031648654X/ref=sr_1_1?s=books&ie=UTF8&qid=1550945039&sr=8-1&keywords=connecting+the+dots",
+    "Img-url": "https://images-na.ssl-images-amazon.com/images/I/41-P7qaA4OL._SX329_BO1,204,203,200_.jpg"
+					}
+   }
